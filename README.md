@@ -42,3 +42,7 @@ Raw experimental results of the reference trajectory driving experiment.
 | y [m] | 0.0 | 0.0 | 0.6 | 0.6 | 1.2 | 1.2 | 1.8 | 1.8 | 0.0 |
 
 The trajectory was repeated ten times.
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
