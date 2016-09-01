@@ -5,7 +5,7 @@ Raw experimental results of the reference trajectory driving experiment.
 ## Signal Parameters
 
 | Parameter | Value | Unit |
-| --------- | -----:| ---- |
+| --------- | ----- | ---- |
 | Channel | 5 | Index |
 | Center Frequency | 6489.6 | MHz |
 | Bandwidth | 499.2 | MHz |
@@ -18,7 +18,7 @@ Raw experimental results of the reference trajectory driving experiment.
 ## Anchor Positions
 
 | Anchor | x [m] | y [m] | z [m] | 
-| --------- | -----:| ---- | 
+| ------ | ----- | ----- | ----- |
 | deca020000000001 | -1.11 | 0.00 | 2.055 |
 | deca020000000001 | -1.11 | 0.00 | 2.055 |
 | deca020000000002 | -1.175 | -3.49 | 0.29 |
@@ -30,14 +30,14 @@ Raw experimental results of the reference trajectory driving experiment.
 | deca020000000008 | -1.17 | 3.49 | 2.17 |
 
 | Sync | x [m] | y [m] | z [m] | 
-| --------- | -----:| ---- | 
+| ---- | ----- | ----- | ----- |
 | deca030000000001 | -1.05 | 0.77 | 1.96 |
 
 
 ## Reference Trajectory
 
 | Waypoint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| -------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+| -------- | - | - | - | - | - | - | - | - | - | 
 | x [m] | -2.1| 1.8 | 1.8 | -1.8 | -1.8 | 1.8 | 1.8 | -2.1 | -2.1 |
 | y [m] | 0.0 | 0.0 | 0.6 | 0.6 | 1.2 | 1.2 | 1.8 | 1.8 | 0.0 |
 
