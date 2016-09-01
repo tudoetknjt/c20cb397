@@ -2,6 +2,8 @@
 
 Raw experimental results of the reference trajectory driving experiment.
 
+[![DOI](https://zenodo.org/badge/20743/tudoetknjt/c20cb397.svg)](https://zenodo.org/badge/latestdoi/20743/tudoetknjt/c20cb397)
+
 ## Signal Parameters
 
 | Parameter | Value | Unit |
