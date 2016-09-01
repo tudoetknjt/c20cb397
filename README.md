@@ -38,7 +38,7 @@ Raw experimental results of the reference trajectory driving experiment.
 
 | Waypoint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | -------- | - | - | - | - | - | - | - | - | - | 
-| x [m] | -2.1| 1.8 | 1.8 | -1.8 | -1.8 | 1.8 | 1.8 | -2.1 | -2.1 |
+| x [m] | -2.1 | 1.8 | 1.8 | -1.8 | -1.8 | 1.8 | 1.8 | -2.1 | -2.1 |
 | y [m] | 0.0 | 0.0 | 0.6 | 0.6 | 1.2 | 1.2 | 1.8 | 1.8 | 0.0 |
 
 The trajectory was repeated ten times.
