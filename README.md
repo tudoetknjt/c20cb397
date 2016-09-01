@@ -22,7 +22,6 @@ Raw experimental results of the reference trajectory driving experiment.
 | Anchor | x [m] | y [m] | z [m] | 
 | ------ | ----- | ----- | ----- |
 | deca020000000001 | -1.11 | 0.00 | 2.055 |
-| deca020000000001 | -1.11 | 0.00 | 2.055 |
 | deca020000000002 | -1.175 | -3.49 | 0.29 |
 | deca020000000003 | 1.2 | -3.49 | 2.43 |
 | deca020000000004 | 3.54 | -3.45 | 2.555 |
